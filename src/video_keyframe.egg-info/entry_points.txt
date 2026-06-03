@@ -1,0 +1,2 @@
+[console_scripts]
+video-keyframe = video_keyframe.cli:main

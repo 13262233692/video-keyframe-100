@@ -1,0 +1,10 @@
+Metadata-Version: 2.4
+Name: video-keyframe
+Version: 0.1.0
+Summary: CLI tool for video keyframe extraction and gallery generation
+Requires-Python: >=3.9
+Requires-Dist: opencv-python>=4.8.0
+Requires-Dist: numpy>=1.24.0
+Requires-Dist: click>=8.1.0
+Requires-Dist: jinja2>=3.1.0
+Requires-Dist: tqdm>=4.65.0

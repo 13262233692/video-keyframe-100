@@ -1,0 +1,14 @@
+README.md
+pyproject.toml
+src/video_keyframe/__init__.py
+src/video_keyframe/cli.py
+src/video_keyframe/gallery_generator.py
+src/video_keyframe/keyframe_selector.py
+src/video_keyframe/scene_detector.py
+src/video_keyframe/video_decoder.py
+src/video_keyframe.egg-info/PKG-INFO
+src/video_keyframe.egg-info/SOURCES.txt
+src/video_keyframe.egg-info/dependency_links.txt
+src/video_keyframe.egg-info/entry_points.txt
+src/video_keyframe.egg-info/requires.txt
+src/video_keyframe.egg-info/top_level.txt
